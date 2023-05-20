@@ -1,4 +1,4 @@
-# Scandiweb Junior Task
+# Junior Task
 
 To run this app on a local machine you need to have MySQL, Node.js and PHP installed.
 
