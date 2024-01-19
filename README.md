@@ -1,7 +1,5 @@
-<div id="header" align="center">
-  <img src="hhttps://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" width="300"/>
-</div>
 
+![Uploading DALL·E 2024-01-15 18.51.06 - An image representing Git in activity, depicted in a high-tech, high-definition style. The scene includes a futuristic computer interface with a large.png…]()
 
 ## React-PHP CRUD Application
 
