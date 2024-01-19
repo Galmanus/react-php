@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="250"/>
 </div>
 
 ## React-PHP CRUD Application
@@ -37,11 +37,11 @@ To run this application on your local machine, ensure you have MySQL, Node.js, a
 
      ```sql
      CREATE TABLE products (
-         SKU varchar(255),
-         Name varchar(255),
+         SKU varchar(100),
+         Name varchar(100),
          Price int,
-         Type varchar(255),
-         Value varchar(255),
+         Type varchar(100),
+         Value varchar(100),
          PRIMARY KEY (SKU)
      )
      ```
